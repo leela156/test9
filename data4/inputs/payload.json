@@ -1,0 +1,14 @@
+{
+"message": "Hello world!",
+  "values": [
+    {
+      "name": "John"
+    },
+    {
+      "message": "Murray"
+    },
+    {
+      "message": "John.M"
+    }
+  ]
+}
